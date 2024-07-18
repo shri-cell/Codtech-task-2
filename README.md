@@ -14,3 +14,7 @@ Mentor:Neela santhosh kumar
 
 # Highlight Projects and Experience: 
    Present your past projects in detail, including your role, the technologies used, and the challenges overcome. This helps potential employers or clients understand the breadth and depth of your experience.
+
+![Screenshot 2024-07-18 132145](https://github.com/user-attachments/assets/ee0735c3-e20c-4d8c-8b4d-04f776da8184)
+![Screenshot 2024-07-18 132202](https://github.com/user-attachments/assets/8eae81fe-3145-408a-b8d0-84dcb432e2aa)
+![Screenshot 2024-07-18 132220](https://github.com/user-attachments/assets/24c1cccd-1b9c-4f43-9c39-53a945b09dad)
